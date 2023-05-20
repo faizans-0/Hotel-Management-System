@@ -1,0 +1,2 @@
+NAME:                         	AGE:      	PASSPORT NO:        	PHONE NO:           	EMAIL:                   	ROOM NO:  	DAYS:     	CHECK IN:      	CHECK OUT:     	PASSWORD:           	STATUS:   
+Brad Johnson                  	20        	D1234567            	0987654321          	brad123@gmail.com        	202       	6         	07/08/2021     	13/08/2021     	password789         	Initial   
