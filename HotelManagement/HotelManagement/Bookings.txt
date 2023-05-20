@@ -1,0 +1,7 @@
+NAME:                         	AGE:      	PASSPORT NO:        	PHONE NO:           	EMAIL:                   	ROOM NO:  	DAYS:     	CHECK IN:      	CHECK OUT:     	PASSWORD:           	STATUS:    
+John Smith                    	18        	B1234567            	0123456789          	jack321@gmail.com        	105       	5         	07/08/2021     	12/08/2021     	password321         	Initial   
+John Smith                    	18        	B1234567            	0123456789          	jack321@gmail.com        	105       	2         	07/08/2021     	14/07/2021     	password321         	Extention 
+Mike Thomson                  	19        	C1234567            	9876543210          	mike@gmail.com           	101       	15        	07/08/2021     	22/08/2021     	123password         	Initial   
+John Smith                    	18        	B1234567            	0123456789          	jack321@gmail.com        	105       	5         	07/08/2021     	14/08/2021     	password321         	Checkout   
+Brad Johnson                  	20        	D1234567            	0987654321          	brad123@gmail.com        	202       	6         	07/08/2021     	13/08/2021     	password789         	Initial   
+Mike Thomson                  	19        	C1234567            	9876543210          	mike@gmail.com           	101       	3         	07/08/2021     	25/08/2021     	123password         	Extention 
